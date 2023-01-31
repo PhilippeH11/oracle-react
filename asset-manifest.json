@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/oracle-react/static/css/main.7b6bd1f2.css",
+    "main.js": "/oracle-react/static/js/main.51a64616.js",
+    "static/js/787.42213fff.chunk.js": "/oracle-react/static/js/787.42213fff.chunk.js",
+    "static/media/bg.jpg": "/oracle-react/static/media/bg.dc1b559fadc3f465f408.jpg",
+    "index.html": "/oracle-react/index.html",
+    "main.7b6bd1f2.css.map": "/oracle-react/static/css/main.7b6bd1f2.css.map",
+    "main.51a64616.js.map": "/oracle-react/static/js/main.51a64616.js.map",
+    "787.42213fff.chunk.js.map": "/oracle-react/static/js/787.42213fff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b6bd1f2.css",
+    "static/js/main.51a64616.js"
+  ]
+}
